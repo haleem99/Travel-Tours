@@ -265,7 +265,7 @@ body.about-page {
 
 /* gallery*/
 body.about-page {
-  background-image: url("./jack-ward-rknrvCrfS1k-unsplash.jpg"); 
+  background-image: url("./tourist.jpg"); 
   background-size: cover;
   background-position: center;
   background-attachment: fixed; 
@@ -373,8 +373,8 @@ body.about-page {
 .gallery-item:hover .overlay {
   opacity: 1;
 }
-body.about-page {
-  background-image: url("./julentto-photography-CIuakYIjadc-unsplash.jpg"); 
+body.contact-page {
+  background-image: url("./images1.jpg"); 
   background-size: cover;
   background-position: center;
   background-attachment: fixed; 
@@ -405,7 +405,8 @@ body.about-page {
 .contact-info p {
   font-size: 18px;
   margin: 10px 0;
-  color: #444;
+  /* color: #444; */
+  color: linear-gradient(90deg, #ff7e5f, #feb47b);
 }
 
 .contact-form {
